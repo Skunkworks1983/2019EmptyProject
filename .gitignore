@@ -3,6 +3,7 @@ build/
 out/
 .idea/
 classes/
+.vim/
 *.iws
 *.iml
 *.ipr
